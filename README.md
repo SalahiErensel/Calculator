@@ -1,2 +1,2 @@
 # Calculator
-A basic calculator designed and coded with Java.
+A basic calculator that I designed and coded with Java.
